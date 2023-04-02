@@ -1,3 +1,5 @@
+Under construction! Not ready for use yet! Currently experimenting and planning!
+
 # datascribe
 This Python package makes it easy for users to record important information about their datasets such as date/time, shape, title, reason, and URL in an Excel sheet. It simplifies data management and saves time, making it a must-have tool for data enthusiasts.
 
@@ -8,7 +10,3 @@ This Python package makes it easy for users to record important information abou
 **Reproducibility**: By recording metadata in Excel, users can better document their data processing steps, making it easier to reproduce their analysis or share their work with others.
 
 **Organization**: By keeping track of metadata in Excel, users can more easily search, filter, and sort their datasets, making it easier to find the information they need when they need it.
-
-
-**to install the library:**__
-pip install datascribe
