@@ -8,3 +8,7 @@ This Python package makes it easy for users to record important information abou
 **Reproducibility**: By recording metadata in Excel, users can better document their data processing steps, making it easier to reproduce their analysis or share their work with others.
 
 **Organization**: By keeping track of metadata in Excel, users can more easily search, filter, and sort their datasets, making it easier to find the information they need when they need it.
+
+
+**to install the library:**__
+pip install datascribe
